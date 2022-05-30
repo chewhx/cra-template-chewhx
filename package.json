@@ -1,0 +1,22 @@
+{
+  "name": "cra-template-chewhx",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "chewhx"
+  ],
+  "description": "Create React App template for use.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chewhx/cra-template-chewhx.git"
+  },
+  "author": "Chew Han Xiang <hello@chewhx.com>",
+  "license": "MIT",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
