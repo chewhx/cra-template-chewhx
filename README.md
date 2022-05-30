@@ -2,6 +2,14 @@
 
 This is a template for [me](https://www.chewhx.com) to quickly jump into writing React applications in Typescript.
 
+## Install
+
+```bash
+npx create-react-app app-name --template chewhx
+```
+
+## Folder Structure
+
 ```
 .
 ├── public
