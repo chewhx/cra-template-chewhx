@@ -36,3 +36,12 @@ npx create-react-app app-name --template chewhx
 ├── README.md
 └── gitignore
 ```
+## Pre-installed Packages
+```
+"axios": "^0.27.2",
+"bootstrap": "^5.2.0-beta1",
+"react-bootstrap": "^2.4.0",
+"react-query": "^3.39.0",
+"react-router-dom": "^5.3.3",
+"sass": "^1.52.1",
+```
